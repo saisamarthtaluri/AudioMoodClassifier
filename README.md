@@ -16,3 +16,11 @@ manually done by selecting songs that belong to a particular
 mood and naming the playlist according to the mood, such as
 “relaxing”. Here we investigate the possibility of assigning such
 information automatically, without user interaction.
+
+# Instructions to run
+
+Run the files in the order
+1. features_ext.py
+2. model_training.py
+3. predict.py in another terminal
+4. Run the command streamlit run app.py with predict.py running in the background.
