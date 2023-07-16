@@ -1,4 +1,4 @@
-# Data_Analytics_Project_2022
+# Audio_Mood_Classifier
 
 We often want to listen to music that best fits our
 current emotion. A grasp of emotions in songs might be a great
